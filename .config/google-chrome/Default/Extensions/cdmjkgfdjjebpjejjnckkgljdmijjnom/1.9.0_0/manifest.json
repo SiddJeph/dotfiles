@@ -1,0 +1,20 @@
+{
+   "action": {
+      "default_popup": "main.html",
+      "default_title": "fERP"
+   },
+   "description": "Automates the process of filling up feedback form in ERP for IIT KGP students",
+   "host_permissions": [ "*://erp.iitkgp.ac.in/IIT_ERP*/*", "https://gymkhana.iitkgp.ac.in/api/ecs" ],
+   "icons": {
+      "128": "images/fERP128.png",
+      "16": "images/fERP16.png",
+      "32": "images/fERP32.png",
+      "64": "images/fERP64.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArjf1Pp1qtTCgPu76/FuAen7myoKq0AxPH8ar969IdYn/XH68ttWAz+uL36oiU4nfzWfu1Nq37xUtCUBxf5c0uO8j2j0CGj7/tdAYg6UODCYoAjSNfp+BeR3ck/+F1mAV7FvwM1a1iX9Uen142mJB5Lh0CrnZfW283ajg+tlsjB8YY4O65MtVAlLUQ9a/2n912mf0QGKEUeta8J4aQ6laiv8aI5Gi2w7o/AaYcKK7SUyF5CbSsZulZossyKVC3PoL8igI3cWg4qbhCjgC3l5YrzQ/uwL3xAk4+jyblwav3+rYPZP96nSrcyKhqrRpIsoQe0W5WW3147AQ2ex5JB0dUwIDAQAB",
+   "manifest_version": 3,
+   "name": "fERP",
+   "permissions": [ "scripting", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.9.0"
+}

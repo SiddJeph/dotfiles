@@ -1,0 +1,5 @@
+2024-07-16 15:03:39.112 [info] Started local extension host with pid 31783.
+2024-07-16 15:03:39.167 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sidd/.vscode/extensions
+2024-07-16 15:03:39.265 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sidd/.vscode/extensions
+2024-07-16 15:03:41.990 [info] [perf] Render performance baseline is 21ms
+2024-07-16 15:04:16.376 [error] ENOENT: no such file or directory, open '/home/sidd/.config/Code/User/globalStorage/vscodevim.vim/.registers': Error: ENOENT: no such file or directory, open '/home/sidd/.config/Code/User/globalStorage/vscodevim.vim/.registers'

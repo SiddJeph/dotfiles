@@ -1,0 +1,9 @@
+2024/07/16-22:48:12.377 87b Reusing MANIFEST /home/sidd/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/16-22:48:12.378 87b Recovering log #7
+2024/07/16-22:48:12.378 87b Reusing old log /home/sidd/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000007.log 
+2024/07/16-22:48:12.827 87d Compacting 1@1 + 1@2 files
+2024/07/16-22:48:12.840 87d Generated table #10@1: 360 keys, 36063 bytes
+2024/07/16-22:48:12.840 87d Compacted 1@1 + 1@2 files => 36063 bytes
+2024/07/16-22:48:12.841 87d compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/16-22:48:12.841 87d Delete type=2 #8
+2024/07/16-22:48:12.841 87d Delete type=2 #5

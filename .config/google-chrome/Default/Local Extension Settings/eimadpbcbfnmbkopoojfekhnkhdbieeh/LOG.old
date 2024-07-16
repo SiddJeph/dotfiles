@@ -1,0 +1,18 @@
+2024/07/16-23:14:51.541 2491 Reusing MANIFEST /home/sidd/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/MANIFEST-000001
+2024/07/16-23:14:51.541 2491 Recovering log #34
+2024/07/16-23:14:51.547 2491 Reusing old log /home/sidd/.config/google-chrome/Default/Local Extension Settings/eimadpbcbfnmbkopoojfekhnkhdbieeh/000034.log 
+2024/07/16-23:14:55.831 2487 Level-0 table #38: started
+2024/07/16-23:14:55.842 2487 Level-0 table #38: 1968844 bytes OK
+2024/07/16-23:14:55.844 2487 Delete type=0 #34
+2024/07/16-23:14:55.844 2487 Compacting 4@0 + 1@1 files
+2024/07/16-23:14:55.850 2487 Generated table #39@0: 2 keys, 36280 bytes
+2024/07/16-23:14:55.850 2487 Compacted 4@0 + 1@1 files => 36280 bytes
+2024/07/16-23:14:55.850 2487 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/16-23:14:55.850 2487 Delete type=2 #31
+2024/07/16-23:14:55.850 2487 Delete type=2 #38
+2024/07/16-23:14:55.850 2487 Delete type=2 #33
+2024/07/16-23:14:55.850 2487 Delete type=2 #29
+2024/07/16-23:14:55.850 2487 Delete type=2 #35
+2024/07/16-23:19:01.491 2487 Level-0 table #41: started
+2024/07/16-23:19:01.501 2487 Level-0 table #41: 1925884 bytes OK
+2024/07/16-23:19:01.502 2487 Delete type=0 #37

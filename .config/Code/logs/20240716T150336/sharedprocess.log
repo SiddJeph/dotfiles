@@ -1,0 +1,16 @@
+2024-07-16 15:03:39.279 [info] Started initializing default profile extensions in extensions installation folder. file:///home/sidd/.vscode/extensions
+2024-07-16 15:03:39.325 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/sidd/.vscode/extensions Unable to create file 'vscode-userdata:/home/sidd/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-07-16 15:03:39.325 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/sidd/.vscode/extensions
+2024-07-16 15:04:13.881 [info] Getting Manifest... vscodevim.vim
+2024-07-16 15:04:13.889 [info] Installing extension: vscodevim.vim {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/sidd/.vscode/extensions/extensions.json","path":"/home/sidd/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.91.1","date":"2024-07-09T22:08:12.169Z"}}
+2024-07-16 15:04:15.159 [info] Extension signature verification result for vscodevim.vim: UnknownError. Executed: true. Duration: 7ms.
+2024-07-16 15:04:15.191 [info] Extracted extension to file:///home/sidd/.vscode/extensions/vscodevim.vim-1.27.3: vscodevim.vim
+2024-07-16 15:04:15.199 [info] Renamed to /home/sidd/.vscode/extensions/vscodevim.vim-1.27.3
+2024-07-16 15:04:15.212 [info] Extension installed successfully: vscodevim.vim vscode-userdata:/home/sidd/.vscode/extensions/extensions.json
+2024-07-16 15:04:15.284 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/sidd/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/sidd/.vscode/extensions/extensions.json.vsctmp'
+    at h.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19262)
+    at f (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:54:19372)
+    at P.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:36571)
+    at P.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:28919)
+    at async s.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:59:14907)
+    at async V.vb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:105:119283)

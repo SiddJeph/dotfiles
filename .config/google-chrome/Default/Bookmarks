@@ -1,0 +1,440 @@
+{
+   "checksum": "5a2bcceb8fc36be40b88d50cbca42482",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13339443454180977",
+            "date_last_used": "13347816574127148",
+            "guid": "18e18d4c-67bd-4d4d-b3fd-04cea932c2a0",
+            "id": "5",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "CSE 2020",
+            "type": "url",
+            "url": "https://garggopal2001.github.io/cse_material/"
+         }, {
+            "date_added": "13348158671705202",
+            "date_last_used": "13359559520083483",
+            "guid": "7fd70b06-9a7c-43f3-b2a5-5af586336ff2",
+            "id": "6",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Codeforces",
+            "type": "url",
+            "url": "https://codeforces.com/"
+         }, {
+            "children": [ {
+               "date_added": "13351697311626030",
+               "date_last_used": "0",
+               "guid": "e3a7bca3-0e12-4999-9f0a-d6495cb3e174",
+               "id": "8",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "(46) Competitive Programming/DSA Course | Hindi - YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-"
+            }, {
+               "date_added": "13351697446229203",
+               "date_last_used": "0",
+               "guid": "589e5186-443f-4111-bcf2-eb995a8d06ce",
+               "id": "9",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Main Page - Algorithms for Competitive Programming",
+               "type": "url",
+               "url": "https://cp-algorithms.com/"
+            }, {
+               "date_added": "13351781454714621",
+               "date_last_used": "0",
+               "guid": "bbd6737d-8329-43cb-8a22-9aa8ba36440d",
+               "id": "10",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "Method Syntax - The Rust Programming Language",
+               "type": "url",
+               "url": "https://doc.rust-lang.org/stable/book/ch05-03-method-syntax.html"
+            }, {
+               "date_added": "13353665696410578",
+               "date_last_used": "0",
+               "guid": "d65a29a2-97ff-45e9-bf87-03aed980bb96",
+               "id": "11",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "book.pdf",
+               "type": "url",
+               "url": "file:///C:/CP/book.pdf"
+            } ],
+            "date_added": "13351697438422732",
+            "date_last_used": "0",
+            "date_modified": "13353665696410578",
+            "guid": "eb6ce0e4-5439-4481-a632-93f27f490c0f",
+            "id": "7",
+            "name": "CP",
+            "type": "folder"
+         }, {
+            "children": [  ],
+            "date_added": "13354475897573634",
+            "date_last_used": "0",
+            "date_modified": "13354475897573634",
+            "guid": "cc8e4bc2-1e85-44ff-bcf4-7fdae10e0f73",
+            "id": "12",
+            "name": "Books",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13354488913567090",
+               "date_last_used": "0",
+               "guid": "86173ddc-174f-4ccd-b537-8d0fb077127d",
+               "id": "14",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "ML reso",
+               "type": "url",
+               "url": "https://huyenchip.com/blog/"
+            }, {
+               "date_added": "13354489477244225",
+               "date_last_used": "0",
+               "guid": "76f180a3-f95d-4e83-9c97-dca16e3cc0bd",
+               "id": "15",
+               "meta_info": {
+                  "power_bookmark_meta": ""
+               },
+               "name": "How to Win Kaggle Competitions | Kaggle",
+               "type": "url",
+               "url": "https://www.kaggle.com/discussions/getting-started/44997"
+            } ],
+            "date_added": "13354488913565868",
+            "date_last_used": "0",
+            "date_modified": "13354489477244225",
+            "guid": "e05d3585-ac8f-439a-b18e-ec35d76243c9",
+            "id": "13",
+            "name": "Explore",
+            "type": "folder"
+         }, {
+            "date_added": "13355294058674331",
+            "date_last_used": "0",
+            "guid": "d4b94025-efbb-45cd-863b-a16e081f3ab3",
+            "id": "16",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "",
+            "type": "url",
+            "url": "https://learning.oreilly.com/home/"
+         }, {
+            "date_added": "13358076101370851",
+            "date_last_used": "0",
+            "guid": "a6e149a0-c801-477d-b70a-41b0137a30e8",
+            "id": "17",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "IQPS - Metakgp",
+            "type": "url",
+            "url": "https://qp.metakgp.org/?query=Physics+of+wave+&exam="
+         }, {
+            "date_added": "13358949073577421",
+            "date_last_used": "13364722118348930",
+            "guid": "957388ae-3db6-4896-afc9-1da3ba366e8b",
+            "id": "18",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "100Xdev",
+            "type": "url",
+            "url": "https://app.100xdevs.com/"
+         }, {
+            "date_added": "13358960494269419",
+            "date_last_used": "13365616370678427",
+            "guid": "ea1b0f58-280b-4e06-aa3b-267dd0ae8b5b",
+            "id": "19",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "conviction",
+            "type": "url",
+            "url": "https://conviction.delhipolice.gov.in/"
+         }, {
+            "date_added": "13361982527065392",
+            "date_last_used": "0",
+            "guid": "e940c7d4-30b4-456d-b347-a8f717bf8280",
+            "id": "20",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aut-2023 Physics Sem",
+            "type": "url",
+            "url": "https://dami-18.github.io/Aut_2023_Physics/"
+         } ],
+         "date_added": "13365588265634549",
+         "date_last_used": "0",
+         "date_modified": "13361982527065392",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [ {
+            "date_added": "13343818104033060",
+            "date_last_used": "0",
+            "guid": "032077d9-43c3-4d06-b844-1386a4127c8f",
+            "id": "21",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Welcome Siddharth Jeph to ERP, IIT Kharagpur",
+            "type": "url",
+            "url": "https://erp.iitkgp.ac.in/IIT_ERP3/showmenu.htm"
+         }, {
+            "date_added": "13345910423947670",
+            "date_last_used": "0",
+            "guid": "031bb41c-fa1c-48a3-8248-6a7e70084ef1",
+            "id": "22",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "index/faq - resumes",
+            "type": "url",
+            "url": "https://www.reddit.com/r/resumes/wiki/index/faq/"
+         }, {
+            "date_added": "13346433885812074",
+            "date_last_used": "13346532939216361",
+            "guid": "3440c000-d697-4ef7-b8b2-fdf9f762d4bd",
+            "id": "23",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Typing Practice",
+            "type": "url",
+            "url": "https://www.keybr.com/"
+         }, {
+            "date_added": "13347122151474606",
+            "date_last_used": "13347226209023846",
+            "guid": "2a59b0d9-e5c8-4527-a13d-baac9e7eaad4",
+            "id": "24",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AZ101: Master C++ For Competitive Coding | AlgoZenith",
+            "type": "url",
+            "url": "https://maang.in/courses/AZ101-Master-C-For-Competitive-Coding-67?tab=chapters"
+         }, {
+            "date_added": "13347357028528972",
+            "date_last_used": "0",
+            "guid": "ca57a171-0e9c-4f85-bcc0-6b2a766b1745",
+            "id": "25",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Buy Black Jackets & Coats for Men by Fort Collins Online | Ajio.com",
+            "type": "url",
+            "url": "https://www.ajio.com/fort-collins-men-zip-front-jacket-with-inner-fur/p/469518368_black"
+         }, {
+            "date_added": "13347357226680958",
+            "date_last_used": "0",
+            "guid": "9227a4b9-cc72-49c3-bbd7-1ca4f6085d9b",
+            "id": "26",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Buy Navy Blue Jackets & Coats for Men by JOHN PLAYERS JEANS Online | Ajio.com",
+            "type": "url",
+            "url": "https://www.ajio.com/john-players-jeans-colourblock-slim-fit-bomber-jacket/p/443011052_navy"
+         }, {
+            "date_added": "13347357312209810",
+            "date_last_used": "0",
+            "guid": "a0b7cfbc-ccfc-4f9b-a9c6-fbfa32a85c1c",
+            "id": "27",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Buy Olive Jackets & Coats for Men by Fort Collins Online | Ajio.com",
+            "type": "url",
+            "url": "https://www.ajio.com/fort-collins-striped-zip-front-bomber-jacket/p/469397277_burntolive"
+         }, {
+            "date_added": "13347357395161978",
+            "date_last_used": "0",
+            "guid": "ffa2087e-cf9b-4b4c-9aef-d46da28f06b5",
+            "id": "28",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Buy Military Grey Jackets & Coats for Men by Fort Collins Online | Ajio.com",
+            "type": "url",
+            "url": "https://www.ajio.com/fort-collins-zip-front-jacket-with-hood/p/469255943_military"
+         }, {
+            "date_added": "13347459289886444",
+            "date_last_used": "0",
+            "guid": "3555f1ea-5ab4-4437-a986-95088b3eb567",
+            "id": "29",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Fundae Docs - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1kHOCcFcWkncHaAPZtzOCHUDn4aKQ84KV"
+         }, {
+            "date_added": "13347459367618720",
+            "date_last_used": "0",
+            "guid": "f80c5f90-3595-42ed-b96b-84f5ec519984",
+            "id": "30",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Subject wise fundae doc.pdf - Google Drive",
+            "type": "url",
+            "url": "https://drive.google.com/file/d/158Bd_ectVJIj2xMR5CsiAZ-m37LyL74Z/view"
+         }, {
+            "date_added": "13347921127665723",
+            "date_last_used": "0",
+            "guid": "74772b41-ee4b-4ce4-9606-3a68b18336f3",
+            "id": "31",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "(20) Day 1: Open Source Contributions | BootCamp - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=tlJVWvzOnlw&list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9"
+         }, {
+            "date_added": "13356081394095688",
+            "date_last_used": "0",
+            "guid": "199cc38b-969c-4220-ae40-55064d1a0357",
+            "id": "32",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "KDE Plasma Customization - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/watch?v=amBh9v2aolY"
+         }, {
+            "date_added": "13358693418697683",
+            "date_last_used": "0",
+            "guid": "d74df57f-ee42-4a1e-bfc9-c55fd2a64891",
+            "id": "33",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Intel sound not working: Dummy output - General system - EndeavourOS",
+            "type": "url",
+            "url": "https://forum.endeavouros.com/t/intel-sound-not-working-dummy-output/3507/23"
+         }, {
+            "date_added": "13359496843144022",
+            "date_last_used": "0",
+            "guid": "486c1b38-e007-46d2-b967-a3eafdb19a11",
+            "id": "34",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "i3 - Reference Card",
+            "type": "url",
+            "url": "https://i3wm.org/docs/refcard.html"
+         }, {
+            "date_added": "13359627863837595",
+            "date_last_used": "0",
+            "guid": "5981c128-12cb-47c1-9e6f-f98c1ac6a745",
+            "id": "35",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "deepanshu1422/List-Of-Open-Source-Internships-Programs: A curated list of all the open-source internships/Programs",
+            "type": "url",
+            "url": "https://github.com/deepanshu1422/List-Of-Open-Source-Internships-Programs"
+         }, {
+            "date_added": "13360174465439168",
+            "date_last_used": "0",
+            "guid": "6c9f335a-93a8-4e8a-8beb-6ac0bc053455",
+            "id": "36",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "An Introduction to Statistical Learning",
+            "type": "url",
+            "url": "https://www.statlearning.com/"
+         }, {
+            "date_added": "13364763900322254",
+            "date_last_used": "0",
+            "guid": "77091ebc-439d-4d56-9fb8-b1cef78a8284",
+            "id": "37",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Cohort 3.0",
+            "type": "url",
+            "url": "https://blog.100xdevs.com/Cohort-3-0-322ac9e00cb248f090fffe05047de99f"
+         } ],
+         "date_added": "13365588265634550",
+         "date_last_used": "0",
+         "date_modified": "13364763900322254",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [ {
+            "date_added": "13303213206682100",
+            "date_last_used": "0",
+            "guid": "befcf25d-11c7-4d23-a969-d921a66eb51c",
+            "id": "38",
+            "name": "Bank Robbery ? | #nopixelindia #gtarp - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/clip/Ugkxl7RIG-WNrbF2Ccqik6P83BJND7_533de"
+         }, {
+            "date_added": "13300365432668473",
+            "date_last_used": "0",
+            "guid": "cb1fcbb0-1bae-489b-b840-b6cc91a39146",
+            "id": "39",
+            "name": "youtu.be",
+            "type": "url",
+            "url": "https://youtu.be/9CZnhOZg6dg"
+         }, {
+            "date_added": "13299152584318246",
+            "date_last_used": "0",
+            "guid": "1d22055f-dc90-4992-8bb0-1c5a5e7546f8",
+            "id": "40",
+            "name": "✂️ XD - YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/clip/Ugkx5nFMqU2XBySMNOpDMuWvxp0bYecJVnPV"
+         }, {
+            "date_added": "13358012737425833",
+            "date_last_used": "0",
+            "guid": "83720226-0589-4bcd-a6b7-a7cc08807d5a",
+            "id": "41",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "AlgoCrunch Resources - Google Drive",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/u/0/d/18rl3crCqSSvqnBcieMKKVwNEyE4kTKtF75OBcx3KXJA/htmlview"
+         }, {
+            "date_added": "13361982464270086",
+            "date_last_used": "0",
+            "guid": "3e4fc51c-ae71-43d4-a2c9-1058b9d99631",
+            "id": "42",
+            "meta_info": {
+               "power_bookmark_meta": ""
+            },
+            "name": "Aut-2023 Physics Sem",
+            "type": "url",
+            "url": "https://dami-18.github.io/Aut_2023_Physics/"
+         } ],
+         "date_added": "13365588265634551",
+         "date_last_used": "0",
+         "date_modified": "13361982464270086",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CqoBCokBCIiBAhKCASAAkgF9CjQKDmNocm9tZV9zeW5jX2JtEgU1MSFibRoSCRvtWKReHQYAERvtWKReHQYAKQIXWaReHQYACkUKFmFubm90YXRpb25fY2hyb21lX3N5bmMSBTUxIWJkGhIJgObhnl4dBgARgObhnl4dBgApiw1ZpF4dBgAwgM2H9+mrhwMSACoYNFNHbE5UOWpwMm9saEhBTkV1aW9tZz09SAMS6wEIKhLmAQoccFRYZkF3emNmWXAwTWh4eXd4Rm5FLytFajdVPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZWFNtZWhteG5GU1h5Q01XSHlLN3NyRlgvWjVLdWZWbDNFTDlPU0huT0hCc1ZWanMzOFlQRUF0ajZnSkpqUW1kcSttV1p3dz09GAAgACgAMPKZrKmLwoYDOI/yhZz+MUCP8oWc/jFKHHNiUlRMM0xrMy90QTRsRlRoVU9YU25kcURVND1aHiIcbko3M0ZNTG9VS0JiN2h3V2w3ZEV3STd0cFVJPWXGl2frEusBCCkS5gEKHHUyR1BoK3BGSzFZbUhpeFNHbVVRVDVBOHc4ST0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WVI4Vm5HR2RVSHJySDBEY1EvejI2VDBIak11UUwxTTFIUGtvTGpUMndRMDlGZTl4UVBlbEJ0djFOekFpZUNqYUUydzUzY3c9PRgAIAAoADCS95vexs6FAziU/5C37zFAlP+Qt+8xShwreG9LNURabVJhSFIrcGdPanNYaFJ6OUhaWTA9Wh4iHGpWOGVaWkpHOC9ycStjSzF3dTVsaUlWaVoyOD1l2nONCRLrAQgoEuYBChxhMzBxL3NGeTRtSWpReGR6VTc0VlU3ejhZMEE9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlzQUVsVElNRXNaVDA0WVhyajRjaUZaRVRMLzFaS2F3Wm9id0hsQjVhK09oN1ZJYis4WEVTOUFtOW82UXFVemxZWjAxMVR3PT0YACAAKAAwqK2Uyr+d+AI4hK22lJQwQISttpSUMEocZ3pZZTB4Um5lZEN5THppSjNRSGxyWkN4dGZzPVoeIhxFTTNjRDNENDM1cGJXcy9lNFhMVm9UVE5SMjQ9ZZPdbkES6wEIJxLmAQocOUNiSUZhckZNcWNSM2IxZTlkcElGV0haVTljPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZRDR0Um5kajVRN0RwQUNlMlNXSTZHVEUyRWt6ejd4aHJFUklFRzlOSjNwWWhPdVZjc0ZCcVppemh0VHRNcUcya04vM3pmdz09GAAgACgAMLSKgOXlwPgCOPXe4NaYMED13uDWmDBKHE81Z3NINjNDdENuT21kQ3hkV245SXIyUndpOD1aHiIcK1Vzek5XdE8xamxORnVNL0cxVWlGWm1RTUh3PWUAAAAAEsMBCAMSvgEKHG5qZ0R1ODhlQ3J2WHA4NnBEN2ZIR2NxRnA4OD0SZlo6QURxdEFaeUZxeEF0ditHcllHYmF2NjJVQXoyOVlTNDFtWUFQMnIwOTRoM2tpQXBFWS9oQjJxU3VCdjdsVHdtcElrTllSNGVFdFh5c3MyZkJ2QjdDZEt1NXFBOCtIM0dsc3c9PRgAIAAoADDIrcH1g6uHAzgAQABKHHl6TkIwMWNuNTRBN2NSVTB1VCsvUGdtVHRVbz1aAGUAAAAAEu4BCA0S6QEKHHdNSms2UjZKZWcyQWR0N2p3RjBpOE5hRkNhMD0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WU15YjdJcGk2VFVVREZLNFNRNWhwZFFxclYyVjFFVC9ON0gyTXZ0bmR2bDMwcUczMWw1R0srSXlzd1BPVEQzZUgvTGkzZ1E9PRgAIAAoADCti9G7/+eEAzie7eum4jFAnu3rpuIxShw4U1Jvc3N1bGQ3Ymo0ejdLaFJvQUZDdnFXWU09WiEiH////VhHbWdGM2xHSlNCQWdpM3ZBN0V4dHNTSXUyaz1lAAAAABLvAQgTEuoBChw0MGgvVkZiTFIwVkRvZWxzdFJjQWxiY0kybHc9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlIQTljZzI5MFZaVU4vUVVTRlk4VmJPc2EwT01lNitLYU1HeHROM3JvblFWSHFnYjV1cUdZb0haekNaNG9OTWR6UUMxeTNnPT0YACAAKAAwsJj4s5HqhQM4wb2H+/IxQMG9h/vyMUocRDEvWTdHLzB3Qi8wZnJiSjlRUnVCenhqYllBPVoiIiD///+qMHdLOU5QOHZVQmh0NTVXc1h1cXkreVBtTWJRPWUAAAAAEu0BCCUS6AEKHGQvR0lQMlhrTS9WQUJoKytKSkZVUW5LcjlLdz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WWY3dFVHSXptSStDczlxVk1lNGJsZDUxd2tubXptYkx0ZnVETjdpdFh0RXV3OXJJaVRYeWwyYmJ4VDBQRlhNTFROUnRKSFE9PRgAIAAoADC2zPfXoaeHAziio6vKiDJAoqOryogyShxiL2U0RkwzamZ1YklnTS82OGtpODBjTjNpMTQ9WiAiHv//eDc2dDVjdjlaY2o3NnZJOURVMzJwbGFiMEhjPWX/7xMOEu0BCCMS6AEKHGs2eklqVW9OTHpMdENMV0dUelZHZzQwVTg5Zz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WXJDRnJmcCtuM25lSTNiUXpSOFM2YUNmdklCd1JpVkQ1SmhiMjBzSjE4YzJOclovamZtVG9xRmhvbzV3R3NOZjdZMnFCcFE9PRgAIAAoADDBiZ7Fx/2FAzidvqS59TFAnb6kufUxShxtaE8vamNuSHdqK0gvS0ZtVkRVaEdLb2VTaGc9WiAiHv/8a2J1ajh2eFRXMWZqemJsNXJBeFcwdkxjY0xzPWXApSi6Eu0BCCIS6AEKHCtxbmw2cVdFU0xmVlZyM0lUd0orODZFVHZvND0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WXJDZXMzM24yV3Rpblo4ZkdseDVlUUtGemNHM1BPWkdLNjdsY3M3ZU5JNS9ZdldqbiticVRVVVNYN2Rad2cyU2lLZGk4WEE9PRgAIAAoADCXrcW63/mFAziIz+f69DFAiM/n+vQxShxLRWZSR0JySWJzNURicE9sVTljaFpoYk1vOGs9WiAiHv/5WXJWNG0rMXF4VjB0OWNlRnMzVDk0YmtlcSs0PWVbDE7uEuwBCCYS5wEKHC85bzZ1dWc1R2RNNEx6Ly81L05BOFlWOFVmZz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WXBkeCtTSWd2aXByZTV1c2dKK0cxaTVpMFBGTnhJTGd2cFVFUmpEUVo5WHZmNmZFWHFXTm5aYmc0ZHlhNmZBWE81aXhuZHc9PRgAIAAoADCO55HK1pP5AjibidekozBAm4nXpKMwShw2QmtZcTRBNk9XOVJqdkUwOFNRb3lhejJEQ0k9Wh8iHRVvcDNXd3J0OFVlZjBFSWVOWnNJdGJ4b0J1YTQ9ZZPdbkES7QEIIRLoAQocZ1RRVVlJU3Z1aFdlaHBkenJVeEFSL1JsTTBvPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZbEpWRzh1VXF6TWM3cm9KQVFCSkszSGJrYjFjejVUZHUrenNpOS9td1RHQkg2eVRrb2JkQmIrZWZKMlR3QVZkbCs3bFVXUT09GAAgACgAMPXin92u4oUDOMm92vvxMUDJvdr78TFKHGs4ODNxN1d2VlNOUEZlelN6UHRqMnIyby91OD1aICIe//NJUXh5d3BQQU1xOUNqTTV6cStSaGVqR015VzQ9ZZffbqIS7QEIHxLoAQocR3lGblFGWUVRNS9EMG9GMEhlR0lMS3RnY3dFPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZdUZQRjVEQVZwdEFmQVFrNmxoZlpmeGhWNDJZeGtGcHRtS1VzTkZwQVU2WWkyMW9iZUxjQWZLRFhlRUswUklKZ3QySnFiZz09GAAgACgAMKeUpsfsqIMDOPGBiuvJMUDxgYrryTFKHEh3UHhvOE01Z3BVUHJIUHNNRnhwR3cyem1Faz1aICIe/804SDhDNEhCYzc3dFF3TktGYjJsaWJMckpTSW89ZTj5OTMS7QEIHhLoAQocaHpYanR1Ry9lOStOcnFKeWZ4WUxQNjZ3cXpnPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZUkxDM2pzcFg5WjNwang1eXY3MTdxb2N3UVFETzdZc0pSc3Q0Y3VYd3NLWG5FdXlIcnMzNnNMZW0zandWUEU5Uzc1WU91QT09GAAgACgAMOXQmJXXqIMDOP30mejJMUD99JnoyTFKHDBXcFdHSkJMem81MUgwVE5lVEJYcnJoaU0wOD1aICIe/5ozeDZ4MlBYbHpxQis4UEJQVE00RnUvMXVjNlU9ZboKLFES7QEIJBLoAQocSG9WTGhzZlhsa3FPZEtaYU1qejM0V2h2M2RnPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZMk5yUXk4N3VXdzFoYmc2b2FRay9sYUY5anJUT1F2NU5sb1FXQ2o1aTU4NmF2dnU3ZjBNeU1JSGNPL2ZNNTZKdGUzcW5KZz09GAAgACgAMP2Wiea7jYYDOJ+z9r33MUCfs/a99zFKHElFNUtzbkYrZlpWQi9kZlRvM2FtTktXNEdVUT1aICIe//4vWTRIYU1lRTJVaFcrMlhvS1JBTFRrUG5ZSG89ZZ2O8fcS7AEIHRLnAQocK2NXTTJOS0x5OFozc3FKeDBsRE1zV29sMHc0PRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZRzZQcVorZXRCbThmcTk5UHVxOGRxcVVXRGxiWmRxZElOU3VuK1FlUHViVUM1dDFjMEFLR1JQUVpNbkp1Wkx5Ym8xR2pUQT09GAAgACgAMIKqstqy4oUDOP30mejJMUD99JnoyTFKHFI5MUJjc2ZHcnd1cWRVdjdQL2xSNXVKYkIxYz1aHyId/zVBSktNZzRFWlFZQXBBOUovM1lYcytYNC9OMD1l+pHe2xLsAQgZEucBChxDMGN0TVFDZi8za2FlSmg2VFEyQk1uY0JqSHc9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlKNnhRR05nQXdsSXVldWQvQU5NSjRSQWYwR1FCT2NObHE4WDVMaHg2bmw4OTM0V3VQM3laSzlZUU5oYVVRZnNIWW8vNVlBPT0YACAAKAAw5dCYldeogwM4/fSZ6MkxQP30mejJMUocZW1nOU9PZWRwUmJEM1p6QUJxM2hYZUs0ZnhBPVofIh32MHVoVW5naWxaOFhZaWxTVVdNUEI3UzVyN2I4PWWiiqJnEuwBCBgS5wEKHDJCT0M3R2wyeFhXaWpHaWk3SERNUzE3cDdGST0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WXN5TFkxeUp2WW01NXpmak1aRDdIei9nZllNNndEbmVpZDlUWTk0a2tHd05FSVJJZENjZTJLdkJQMDlSTkxsQWJJTzZNMEE9PRgAIAAoADDl0JiV16iDAzj99JnoyTFA/fSZ6MkxShxSRFBaOFFNWXpWQklqTjZxdWFmbHRvcnFjS3M9Wh8iHexyTXhCUzlXWHR0TlhjbXZpbzJidG9yVVQzaVk9ZTi/D0YS7AEIGhLnAQocdFllZ2pOUjVCcWY5N2l2cW5VQnVPTjFWamJnPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZbXBkREhORUJUMWdRMm11ZlFVWVM1NUUyTkhrNVZwZldtc2xzU2J5L3pyWXh0VlVYNFd2V0lNUEVxam9UZW0xK2JSTHhPQT09GAAgACgAMOXQmJXXqIMDOP30mejJMUD99JnoyTFKHHpjVjY4VFltUFk5T2xvZU1YbkpJd1BPMkQrTT1aHyId+3A1SVhxSFlOZG1QZklSaGVydUdjaGNTeEdpRT1looqiZxLsAQgWEucBChxEeXdndFNLWldZU3BPeEx2VnV1KzE5WUtwZHc9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlyUHdBRXcxallYODNBeTI1OVQxOCtZdk02NGJVOG41VHJCeDdSSmVUVHVZUHVPVmVZamNyVWdJaHJHTkhSV3E1M0t1SlpBPT0YACAAKAAw5dCYldeogwM4/PSZ6MkxQPz0mejJMUocU0YrV09xQW1Na213T3pPdGIwNW5zSFQrZ05RPVofIh2zSG9EOU0vUGcyR0ZhS3VKeDVGY1Nlb250MzBRPWV20QkCEuwBCBcS5wEKHGxBYjBQaFp0T1lRR1YxMC9jNGNlVWhSY0IyOD0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WVJ3cW1URExRYlZJcThmVzFZM3lUNG9salhYb2QzQUNGZG5Tb3ZqRVhuZ2lSU1RXdjYxMGRRcnFDWW1uZy9GSGVSaVNLemc9PRgAIAAoADDl0JiV16iDAzj89JnoyTFA/PSZ6MkxShxXWFRoTTlvMXBwd1pVN3QvMjdFQzFNb3pVek09Wh8iHdlkVUtaZUk5OWp4cHRER21PYy9jeGpOTk85RzA9ZX2fcnYSwwEIAhK+AQocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRJmWjpBRHF0QVp5U3NZZEpCTm96ZU9IUldXQ2dvWEpoZlBlbSs5czVvTXA1d0kxRUZNKytiNkNHY2JKeXpkQkZUZ2FQMGNGd3haelhvVzNUb1Y4UlVaTTVEc1dpT0UyNTNka2JjQT09GAAgACgAMMitwfWDq4cDOABAAEocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAAS7wEIFBLqAQocS3pnbHRBOVZmVUFvdlVXNTd2U2FPOFVGTWp3PRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZUzZsK2pUM3hBY01NbmNsVDZXZ3RVdE1HNHRGTTExT3BYemdnMDVyNU8rd3grUFZ6Rm1CVXRURUVqaXdmcXFrcEJ4eDY2QT09GAAgACgAMMe+vqiLwoYDONnciZz+MUDZ3Imc/jFKHHlTUnl6dWF3SmdtTFZXeFhqOWNsbmRoNTUyRT1aIiIg////1Xp2RGZlMmk1L2FtTjQ4a2JRQzJJMFBpM0Rwcz1lxpdn6xLsAQgbEucBChxoTnRqd05vSUg1ZFQ3L1hGMUxIaVlpeUkzRjg9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlLYi9MYWRGYUhLdHZlaHJQMkUwd1k3WmhLWVNLR0NLT2EyVmorSGIwOGtZanRKTVczZG1ieXhsYlZHNFYxUDhndDdiQ2dBPT0YACAAKAAw5dCYldeogwM4/fSZ6MkxQP30mejJMUocRm04aVcwdWc5NmVCdG5OcmJUSUh0Nmx6WlZ3PVofIh39L1k4YVJ5VmJ0WUs2NHJveXV3WVVFb1FzVTRFPWWiiqJnEuwBCBwS5wEKHG9tNzdQNXlsT0hhc3BZNC9BS2h0QklEazJ3ND0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WUhNbDkzZXVvakFOYXdKWFFHU0gwd3lERitCK3FxcGpoUy84MEpmYTk5RTZ0bWNpL1BlUkJ5Z2JNcjlpVEJEMFZROHZLVGc9PRgAIAAoADDl0JiV16iDAzj99JnoyTFA/fSZ6MkxShwzZXkrOHdwMXFEVUJ3WHVaZFNMNll4SysvT289Wh8iHf5XQzFrbGFvTVlTTTdjVWFMdWZGQVZLa3ZvVmM9ZaKKomcS7gEIEhLpAQocUEdGODlvZE55ODJud3JPN1Nac1pJRXFiZUE4PRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZMEIxOUl2UGVDQ0czc0xSM2ZVYVVNazNPcTQvVnp3R1RLK1NCMHd4VXZma3o3VnNNLzB3SEJ2dUo4bkc0OXgyTzNXQTdrZz09GAAgACgAMPXj3PGykocDOKu1zvXyMUCrtc718jFKHGxiTkNZZzMrUEYwL21KbGR3Yy9nTldlQ0E4Zz1aISIf////VFNqb2pjWTNXQ0o5S2pDL0VJQnlQdEJsZTZvPWVJ8/DJEusBCBUS5gEKHEdZUXc2clQ5ZjhQSU1sSVlQK0ViRVZMbkVtYz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WU9ic2p5cFZFRCtBY09RYkdKRVZDTk9LejkzemxQT0hBRm9xTUZKNFQwQkJCOXJ3MHEvOXVRZE56TE1wUHJpV1hiMEF4T3c9PRgAIAAoADDl0JiV16iDAzj89JnoyTFA/PSZ6MkxShxRemk2aTNiMWs3RzFXSEY1dzJiZ0RyemREWU09Wh4iHGdKYjYyeTEwdTRpVTRZN1plK2x1bEl5UjNCUT1lBgGokBLuAQgREukBChxycHdXU24vd1NEVzMvU3BzbysvWU1Vb0RDRWc9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFk1WTZEVjYwOWpxOUVKUFNmdjRKYjllV0JGMllwd0NvUmRzOTJEVm9uMEd5NjhuTjRpdHYzUG0rK2xxSlRJbjFSWWsvcjd3PT0YACAAKAAwlPLimZ/0hQM4+7Ws1e8xQPu1rNXvMUocb0JQdzVkREpYeVFGeUtia2FXT1htYVorajlZPVohIh////83bHZYTmwydkVQTDNET0hwZm9ZcWtreVdEdHM9ZfCeGFsS7QEIBxLoAQocT3daZXlhT2ZNNDROZitFeEU4NE9HRFVwVHhFPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZYVpFa1ZGdU9rUTlqck9ldGs4NXNwelB0U0hGeEc0SjJjYnN0QnIwMVNRcUVJODg3U1h1TVBYbGIrQkRKMWp2TU1vRi9wQT09GAAgACgAMIjD87PgloQDONfd4fPXMUDX3eHz1zFKHGFWa09ialR6WUlTUmlINjlBKysyaWd6RzVkVT1aICIe//4yTlRPb21ycXRjWUhDcHBrTEEvYll0K0NjSWc9ZQAAAAAS7AEIDxLnAQocbThIOXorYnh6UXFjU2w0cm5PYkp5NUc4ejk0PRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZTnhJV2UvMzJzalR0S3duZWtmYTI3WWliUGpoSXhXOHN3ajRUWEZkL3ppSUh6ZWllYitEblpFQWdJNyt4eGtZOXRWSHJUUT09GAAgACgAMNTZrsiB6IQDOPygjqfiMUD8oI6n4jFKHHY4T3JBWXBzdENrNVlRUjVERnJqUVJSY2gvaz1aHyIdsjNzS1pGZm0xUlc1aGMrY3FNa0IvWHlrbEpLOD1lvGjYGRLsAQgLEucBChx1NHNxRm5RRFhZSDVxb0NrbExaRENMa3ZreUk9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlXRUxZYTFMZmNUcUZPTnFkQWRENnpiWU5FWGN3SUdIZjFQNStOV3E2REZWRDEzQ1ZFdEZMQ3dPYWRnZ2xOTFNGTkUwWGNnPT0YACAAKAAwzK2I4YTQhAM4mtWmnt8xQJrVpp7fMUocbFNJM3BMRkhCSEdQNnJUZFFZY1B2SmZCMFFRPVofIh3odDdoRGpaaFl3VG5VaU16bVZ6aDFKNVYrVGVVPWUAAAAAEuwBCAYS5wEKHHhRNmNMRHdldVNxODFxV2RsM1FsOG9JQUkyaz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WU5lZEkybFBNUUhnTUdha0YzMnRMUE5xMmpVVFBiVVJkdE1RVkVZMnFKQjNYVldnMU95Y1M5ZDlIYjRkZmQ4ZUJycm5EdVE9PRgAIAAoADCwmv75yPuFAzjZxqzcyjFA2cas3MoxShxXVVV6YklOTkxGWE9QZStDTUFYNU40dmdzUXM9Wh8iHf9XTjQ3N1VSdDNqcTdkS0wxbnVtQzdLa1h0STA9ZfmgtQIS7gEIDBLpAQocOGpWb1ZQS1h4SEdlblRjczFRdGZHeVFqeldjPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZOW1iU1hVTjRlNHdjcVdZdUUwMUFMRDFlT2pNUnVTeFZ5WFNHQXd0NWpXSmF4ZEQvaUJ6L1JaZkpIWGFNdHd6VlkwNVpQQT09GAAgACgAMMrd5P7O54QDOOa10aDiMUDmtdGg4jFKHCtkTmpxcHU4YWdVd0xtbERkNytCY0MxdEZTZz1aISIf///4bEJNUjE4MkExTlZsUWlHamYyd051VGdsYnRvPWUAAAAAEusBCAgS5gEKHE5JcmU0WVVWdjN5eERsQ2l0V1dZdHhlZTNMUT0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WXFEc1JPclNaTmhLVzVNMng3bVY5UFl4SkNDRnZOdmV2SlRsRnFQZXRCV2daMERKWTQ5aVQxNDJIN2dUUHc4bDVGb0J3dFE9PRgAIAAoADDi1bC14JaEAziL/9nz1zFAi//Z89cxShxYS3MwRmxtR1R0eFNHNTkvZmVwWExxckluUkk9Wh4iHEcySE51ME56cmNEcTRUWlJyMHl1eVppZGpmZz1lOPk5MxLsAQgFEucBChxNTVFBWU1SR29IT01nYmlFdENRTGtYRG9qRkU9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlWdXJpRUJ0ckNjQUZlS0szK3J6QTRvNkJhRmk1NVQ1QUlvMUpMV24zMWc4Uk5XdHprZjhBMGNVQ011WmxvMW0xeTQxd2hBPT0YACAAKAAwlPLimZ/0hQM4/PSZ6MkxQPz0mejJMUocMFF6bE15VjZRY2VabXd2Q3pYY2YzZU16MHRFPVofIh30YkdPa2s4eGx6cHJHNlByeW9COGhzYThJeUZFPWWtN/LWEuwBCAoS5wEKHFBIZlIzVVNYNHErWk5xYU00eFFKbTZoMEkxdz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WXpla0x5VlcxMUF4ZHFsVHlVYloyU2dqRXFaK3BZK01WMkZKSVdNZzRVUDk0SDE2WHdteUJSaG4vNVpkSEdBb2twcE1hZUE9PRgAIAAoADDU17mymZmEAzj61umb2DFA+tbpm9gxShxDSUtiNmU0bklqdmxoMy9oQ3lmUWVMSkRBZVk9Wh8iHdFjU3NZSmtwMnpIT1FFL25KT2F2bGNsc1UrTU09Ze54EjIS7gEIEBLpAQocd2VSdTZCTGJTVERmZUUzem1yUlQzVWpyUWNNPRJmWjpBRHF0QVp6Qkt1R1F6VTQ4RC9yMlMxR2xhbHRZUEpHOXZpWXBJczVLdG9ISWhaTzBjbEtZR25QazVIUEZoWVo0SzJSSk5vVU45QjRpZzFaWU9vRlZ0QU1aVWRia2V1WlRKQT09GAAgACgAMJTy4pmf9IUDOLKB4qblMUCygeKm5TFKHC9XUXpoU3BKQm0wQUpRWmpZZUhHd3Fzclp1ND1aISIf///+ZkN2akRCWWcrLzRvNWFMdW1ncTg2eXNLS2lnPWWSuldfEu0BCCAS6AEKHGpsNDRhMFJTK20wZDYwSEZjYUlyRk1CZWVCVT0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WUQ1SGgrY0NLM2NJbVVLMmdjejRWb25qWVB3UWsrcWJ4OWdUd1c2YjBYYmRRTDJZRjJuMkt1eWtjajRZMzBDWEdWeE1HbGc9PRgAIAAoADDyzcr1q5aFAziwk5me6DFAsJOZnugxShxlQko5d0s1WEdweXY0SU1GMDhrR3VVaE9yekk9WiAiHv/mSjVQQzUvd0VGZmlFc2VaUGZvbEczbWVNL1hFPWU4+TkzEusBCA4S5gEKHDA4QU1taGwzV2lnVFZEalIveXZLa3l3KzlnYz0SZlo6QURxdEFaekJLdUdRelU0OEQvcjJTMUdsYWx0WWwyWU1HU0ZCQ2NnRTV6ZVVnSFRKQm9DR2s1VHV3M3RHaU9teW9KazJsaHNINUZGOVFsR211WUIvNjBUWmxXc3paSUJVM2c9PRgAIAAoADCti9G7/+eEAzif7eum4jFAn+3rpuIxShxsVC9HMFRwbEhqMGNZMGpMaWRtdjdGdGMyQ289Wh4iHGRhY2lJNkx3SWtpTTJkbHpZZTY0WWpDTVZjYz1lYb4Z9RLsAQgJEucBChxxZzJsMjdDWUtrQmFJTUUrU2ZIZEp5akVQZlk9EmZaOkFEcXRBWnpCS3VHUXpVNDhEL3IyUzFHbGFsdFlUNmFLRVVLWkc0RU51Zk0wOUJjNERqVXlWb3VCSUZ6aElZdmtNNFV4VlJGVWlVVnRqdzg3QnlmWGh1MHRDMEJXS2ZZa1ZRPT0YACAAKAAw4LPPt+CWhAM41Zri89cxQNWa4vPXMUocNjBNWVNqU0tJaWpVcThibWJxd05jVzN0c3RJPVofIh2jQnc2VFVGQ2xpdElsUmtuSjlSL3NXaUlrY01jPWX2tKurEqsBCAESpgEKHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0STlo6QURxdEFaeWNmZTZlL3RaRXgwR21mUkdVZGZPT0x6cmQrWUJoTDNGQ3dUU29LSXZjKzBUa1ZjZGs5ZG5udngvd3luZFAwV2JFT3RUeRgAIAAoADDIrcH1g6uHAzgAQABKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAMAE4AA==",
+   "version": 1
+}

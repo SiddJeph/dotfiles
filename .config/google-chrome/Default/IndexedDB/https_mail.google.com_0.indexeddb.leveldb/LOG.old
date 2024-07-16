@@ -1,0 +1,6 @@
+2024/07/16-20:41:41.603 2d05 Reusing MANIFEST /home/sidd/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/16-20:41:41.603 2d05 Recovering log #9
+2024/07/16-20:41:41.603 2d05 Reusing old log /home/sidd/.config/google-chrome/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000009.log 
+2024/07/16-20:41:58.111 2c78 Level-0 table #14: started
+2024/07/16-20:41:58.124 2c78 Level-0 table #14: 2869953 bytes OK
+2024/07/16-20:41:58.126 2c78 Delete type=0 #9

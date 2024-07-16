@@ -1,0 +1,24 @@
+2024/07/16-23:14:51.396 248c Reusing MANIFEST /home/sidd/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/07/16-23:14:51.396 248c Recovering log #69
+2024/07/16-23:14:51.396 248c Reusing old log /home/sidd/.config/google-chrome/Default/Sync Data/LevelDB/000069.log 
+2024/07/16-23:28:51.805 248a Level-0 table #73: started
+2024/07/16-23:28:51.806 248a Level-0 table #73: 124824 bytes OK
+2024/07/16-23:28:51.807 248a Delete type=0 #69
+2024/07/16-23:33:11.177 248c Level-0 table #75: started
+2024/07/16-23:33:11.181 248c Level-0 table #75: 73139 bytes OK
+2024/07/16-23:33:11.182 248c Delete type=0 #72
+2024/07/16-23:39:01.192 2487 Level-0 table #77: started
+2024/07/16-23:39:01.197 2487 Level-0 table #77: 72611 bytes OK
+2024/07/16-23:39:01.198 2487 Delete type=0 #74
+2024/07/16-23:39:01.198 2487 Compacting 4@0 + 1@1 files
+2024/07/16-23:39:01.201 2487 Generated table #78@0: 86 keys, 18929 bytes
+2024/07/16-23:39:01.201 2487 Compacted 4@0 + 1@1 files => 18929 bytes
+2024/07/16-23:39:01.202 2487 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/07/16-23:39:01.202 2487 Delete type=2 #77
+2024/07/16-23:39:01.202 2487 Delete type=2 #67
+2024/07/16-23:39:01.202 2487 Delete type=2 #73
+2024/07/16-23:39:01.203 2487 Delete type=2 #70
+2024/07/16-23:39:01.203 2487 Delete type=2 #75
+2024/07/16-23:45:36.573 248c Level-0 table #80: started
+2024/07/16-23:45:36.575 248c Level-0 table #80: 74057 bytes OK
+2024/07/16-23:45:36.576 248c Delete type=0 #76

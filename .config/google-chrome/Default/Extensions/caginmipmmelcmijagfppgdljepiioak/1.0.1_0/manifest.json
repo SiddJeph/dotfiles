@@ -1,0 +1,23 @@
+{
+   "browser_action": {
+      "default_icon": "icons/icon16.png",
+      "default_popup": "index.html",
+      "default_title": "CF World Standings"
+   },
+   "content_scripts": [ {
+      "js": [ "js/jquery.min.js", "js/background.js" ],
+      "matches": [ "http://*/*", "https://*/*" ]
+   } ],
+   "description": "This extension filters the standings for a given contest on Codeforces to show only active competitors of a specific country.",
+   "icons": {
+      "128": "icons/icon128.png",
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAy/GlkF2blzsLCeJ0Esfb/7PzzrjoV0wqF+3nU6HCHiZ6s8pJu0eN56bCuxeaz+PeSZn5MrPBxlOUVVSqgKLuGY2WiInkTiN+N2S1l2NulerMWd7+OXOp8HgLHIaioorF3+9QZ0IrBfKyR7HGfAVYiMmy2FeMAmrgFO8wPS0mayF2DedWJy3APLTitqI+PEWRFSzZuA3ofmXqrD10mzfZ0LsuejSi6S0+5QK4wqPwCr/CLbLV80hzDKVTMfqWIqlhrTRXNsClFAwEaj1zw+VdPEkh3C4ufTnUgLpR8lAmoCUsuCgaZHr4ChLpqHSp+Zf4onQGN1XybOMcC8UfwqiDmQIDAQAB",
+   "manifest_version": 2,
+   "name": "CF World Standings ",
+   "permissions": [ "tabs", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.0.1"
+}

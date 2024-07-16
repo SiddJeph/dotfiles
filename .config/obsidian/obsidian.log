@@ -1,0 +1,15 @@
+2024-07-16 09:21:40 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-07-16 09:21:41 Checking for update using Github
+2024-07-16 09:21:41 Success.
+2024-07-16 09:21:41 Latest version is 1.6.5
+2024-07-16 09:21:41 App is up to date.
+2024-07-16 15:14:52 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-07-16 15:14:53 Checking for update using Github
+2024-07-16 15:15:09 Failed to check for update using Github (net::ERR_NAME_NOT_RESOLVED)
+2024-07-16 15:15:09 Checking for update using obsidian.md
+2024-07-16 15:15:25 Failed to check for update using obsidian.md (net::ERR_NAME_NOT_RESOLVED)
+2024-07-16 17:47:33 Loading main app package /usr/lib/obsidian/obsidian.asar
+2024-07-16 17:47:33 Checking for update using Github
+2024-07-16 17:47:33 Success.
+2024-07-16 17:47:33 Latest version is 1.6.5
+2024-07-16 17:47:33 App is up to date.

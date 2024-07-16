@@ -1,0 +1,7 @@
+2024/07/16-23:28:49.466 2487 Reusing MANIFEST /home/sidd/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/16-23:28:49.467 2487 Recovering log #3
+2024/07/16-23:28:49.475 2487 Reusing old log /home/sidd/.config/google-chrome/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/000003.log 
+2024/07/16-23:48:02.588 2487 Level-0 table #5: started
+2024/07/16-23:48:02.601 2487 Level-0 table #5: 2044579 bytes OK
+2024/07/16-23:48:02.603 2487 Delete type=0 #3
+2024/07/16-23:48:02.604 2487 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
